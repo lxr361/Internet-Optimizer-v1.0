@@ -1,4 +1,4 @@
-# Internet-Optimizer-v1.0
+# Internet Optimizer
 
 # TUTORIAL 
 
