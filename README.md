@@ -16,3 +16,5 @@ Primeiro, execute o aplicativo, pressione Enter e espere um pouco, então você 
 
 If you have problems;
 Discord: lxr361
+
+Virustotal Results: https://www.virustotal.com/gui/file/e3b7d60bfd0e033e11c0383cfcab352e738a1de516f4ae2791050d1d21496c6c?nocache=1
