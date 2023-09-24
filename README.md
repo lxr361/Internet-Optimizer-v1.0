@@ -1,6 +1,6 @@
 # Internet Optimizer
 
-# TUTORIAL 
+# Tutorial
 
 EN:
 First, run the application, then press the Enter key and wait a while, then you can exit the application after seeing the "Successfully optimized" message.
