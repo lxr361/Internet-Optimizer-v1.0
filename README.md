@@ -15,6 +15,7 @@ PT:
 Primeiro, execute o aplicativo, pressione Enter e espere um pouco, então você pode sair do aplicativo depois de ver a mensagem "Otimizado com sucesso".
 
 If you have problems;
+
 Discord: lxr361
 
 [Download App](https://github.com/lxr361/Internet-Optimizer-v1.0/archive/refs/heads/main.zip)
